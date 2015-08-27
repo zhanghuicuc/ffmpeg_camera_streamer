@@ -1,0 +1,2 @@
+# ffmpeg_camera_streamer
+本程序实现了读取PC端摄像头并进行直播的功能
