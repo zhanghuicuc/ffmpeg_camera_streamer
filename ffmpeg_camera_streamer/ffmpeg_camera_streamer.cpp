@@ -5,7 +5,7 @@
  * 中国传媒大学/数字电视技术
  * Communication University of China / Digital TV Technology
  * 
- * 本程序实现了读取PC端摄像头数据并进行编码和流媒体传输。
+ * 本程序实现了读取PC端摄像头数据并进行编码和流媒体传输,并且可以添加不同的视频滤镜。
  *
  */
 
